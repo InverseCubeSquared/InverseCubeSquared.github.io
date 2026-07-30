@@ -1,0 +1,2 @@
+# InverseCubeSquared.github.io
+wwwroot
